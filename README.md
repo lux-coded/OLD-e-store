@@ -8,4 +8,6 @@ React eCommerce application.
 * Sass
 * JavaScript
 * React
+* Stripe
+* Commerce.js
 * Material UI
